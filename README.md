@@ -27,13 +27,9 @@ This is a Django web application project I built while learning from Hitesh Chou
 - **Frontend**: HTML, CSS, Bootstrap (basic)
 - **Database**: SQLite (default Django DB)
 
-## 📸 Screenshots
-
-(Add screenshots here if you have any.)
-
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/buildwithadi/myblog-chaiaurcode.git
+   cd myblog-chaiaurcode
